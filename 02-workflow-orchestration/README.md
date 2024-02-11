@@ -11,6 +11,7 @@ Mage is an open-source, hybrid framework for transforming and integrating data. 
 
 This week, you'll learn how to use the Mage platform to author and share _magical_ data pipelines. This will all be covered in the course, but if you'd like to learn a bit more about Mage, check out our docs [here](https://docs.mage.ai/introduction/overview). 
 
+<<<<<<< Updated upstream
 * [2.2.1 - 📯 Intro to Orchestration](#221----intro-to-orchestration)
 * [2.2.2 - 🧙‍♂️ Intro to Mage](#222---%EF%B8%8F-intro-to-mage)
 * [2.2.3 - 🐘 ETL: API to Postgres](#223----etl-api-to-postgres)
@@ -20,6 +21,24 @@ This week, you'll learn how to use the Mage platform to author and share _magica
 * [2.2.7 - 🤖 Deployment (Optional)](#227----deployment-optional)
 * [2.2.8 - 🗒️ Homework](#228---️-homework)
 * [2.2.9 - 👣 Next Steps](#229----next-steps)
+=======
+- [Week 2: Workflow Orchestration](#week-2-workflow-orchestration)
+  - [📕 Course Resources](#-course-resources)
+    - [2.2.1 - 📯 Intro to Orchestration](#221----intro-to-orchestration)
+    - [2.2.2 - 🧙‍♂️ Intro to Mage](#222---️-intro-to-mage)
+    - [2.2.3 - 🐘 ETL: API to Postgres](#223----etl-api-to-postgres)
+    - [2.2.4 - 🤓 ETL: API to GCS](#224----etl-api-to-gcs)
+    - [2.2.5 - 🔍 ETL: GCS to BigQuery](#225----etl-gcs-to-bigquery)
+    - [2.2.6 - 👨‍💻 Parameterized Execution](#226----parameterized-execution)
+    - [2.2.7 - 🤖 Deployment (Optional)](#227----deployment-optional)
+    - [2.2.8 - 🗒️ Homework](#228---️-homework)
+    - [2.2.9 - 👣 Next Steps](#229----next-steps)
+    - [📑 Additional Resources](#-additional-resources)
+- [Community notes](#community-notes)
+  - [2024 notes](#2024-notes)
+  - [2023 notes](#2023-notes)
+  - [2022 notes](#2022-notes)
+>>>>>>> Stashed changes
 
 ## 📕 Course Resources
 
