@@ -3,7 +3,7 @@
 with
     fhv_tripdata as (
         select *, row_number() over (partition by pulocationid, pickup_datetime) as rn
-        from {{ source("staging", "external_fhv_tripdata") }}
+        from {{ source("staging", "fhv_tripdata") }}
     )
 
 select
