@@ -21,3 +21,5 @@ target/
 dbt_packages/
 logs/
 # end dbt Cloud content
+05-batch/fhvhv_tripdata_2021-01.csv
+05-batch/fhvhv_tripdata_2021-01.csv.gz
